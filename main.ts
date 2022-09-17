@@ -1,4 +1,4 @@
-radio.setGroup(1)
+radio.setGroup(8)
 pins.setPull(DigitalPin.P13, PinPullMode.PullNone)
 pins.setPull(DigitalPin.P15, PinPullMode.PullNone)
 pins.setPull(DigitalPin.P14, PinPullMode.PullNone)
